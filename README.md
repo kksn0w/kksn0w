@@ -1,7 +1,8 @@
  👋 Hi, I’m @kksn0w
-- 👀 I’m interested in  Python, JS, C#, c++ and  HTML /CSS
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in JS, HTML e CSS.
+- 🌱 I’m currently learning JS, HTML and CSS.
 - 💞️ I’m looking to collaborate on Programming
+-
 - 📫 How to reach me ...
 
 <!---
